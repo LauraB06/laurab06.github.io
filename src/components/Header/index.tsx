@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {ReactComponent as ReactLogo} from '../../assets/logo2.svg'
+import {ReactComponent as ReactLogo} from '../../assets/logo.svg'
 import NavigationBar from './components/NavigationBar'
 
 import './index.scss';
