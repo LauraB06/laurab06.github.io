@@ -5,7 +5,7 @@ import './index.scss';
 
 const NavigationBar = () => {
   return (
-    <nav className='NavigationBar'>
+    <nav className='navigationBar'>
       <ul>
         <li>
           <NavLink exact to="/">Home</NavLink>
